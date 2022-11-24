@@ -1,0 +1,23 @@
+{
+  "name": "@huluvu424242/fakedb4rest",
+  "version": "1.0.0",
+  "description": "REST API gesteuerte Datenbank zum Persistieren von SPA Zuständen im Client Filesystem zur Verwendung als Backend Mock.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huluvu424242/fakeDB4REST.git"
+  },
+  "keywords": [
+    "mock",
+    "db"
+  ],
+  "author": "Huluvu424242 (Thomas Schubert)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Huluvu424242/fakeDB4REST/issues"
+  },
+  "homepage": "https://github.com/Huluvu424242/fakeDB4REST#readme"
+}
